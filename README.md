@@ -24,8 +24,8 @@ Aqui você encontra meus projetos, contribuições e estudos sobre tecnologia.
 
 ## ✨ Projetos em destaque
 
-- [Nome do projeto 1](link-do-repo) - Descrição rápida do projeto
-- [Nome do projeto 2](link-do-repo) - Descrição rápida do projeto
+- [O Poder do Protagonismo no Mundo Tech][https://github.com/Iwersonrb/artigo]
+- [Nome do projeto 2][(https://iwersonrb.github.io/portfolio/]
 
 ## 💬 Contato
 
