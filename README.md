@@ -7,9 +7,8 @@ Aqui você encontra meus projetos, contribuições e estudos sobre tecnologia.
 
 - 💻 Desenvolvedor apaixonado por tecnologia e inovação
 - 📚 Estudando e aprimorando conhecimentos em programação, frameworks e ferramentas modernas
-- 🌱 Atualmente focado em aprender mais sobre [coloque sua tecnologia atual de interesse]
-- 🔗 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/) ou pelo e-mail: [seu-email@email.com]
-
+- 🌱 Atualmente focado em aprender mais sobre [Fontend]
+- 🔗 Conecte-se comigo no LinkedIn: [iwersonrb](https://www.linkedin.com/in/iwersonrb/) ou pelo E-mail: [iwersonrb@gmail.com]
 ## 🛠️ Tecnologias e Ferramentas
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
@@ -25,7 +24,7 @@ Aqui você encontra meus projetos, contribuições e estudos sobre tecnologia.
 ## ✨ Projetos em destaque
 
 - [O Poder do Protagonismo no Mundo Tech][https://github.com/Iwersonrb/artigo]
-- [Nome do projeto 2][(https://iwersonrb.github.io/portfolio/]
+- [Portfólio ][(https://iwersonrb.github.io/portfolio/]
 
 ## 💬 Contato
 
