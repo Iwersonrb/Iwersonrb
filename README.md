@@ -3,7 +3,7 @@
 Bem-vindo(a) ao meu perfil no GitHub!  
 Aqui você encontra meus projetos, contribuições e estudos sobre tecnologia.
 
-## 🚀 Sobre mim
+## 🚀 Sobre Mim
 
 - 💻 Desenvolvedor apaixonado por tecnologia e inovação
 - 📚 Estudando e aprimorando conhecimentos em programação, frameworks e ferramentas modernas
